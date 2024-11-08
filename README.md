@@ -1,6 +1,5 @@
 # Hello, I'm Julius
-<a href="www.linkedin.com/in/
-juliusadesanya14"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/julius-a-1079b092"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a Cyber Security Enthusiast, Trainer, Mentor and Analyst with a profound interest in technology and a dedication to solving complex cyber security  problems.
